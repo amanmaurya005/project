@@ -1,0 +1,54 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main .one
+{
+    padding: 0px 20px;
+    
+}
+.main .three
+{
+    padding: 0 20px;
+}
+.one
+{
+    color: white;
+    background-color: brown;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+ 
+   /* align-items: center; */
+   margin-bottom: 10px;
+}
+
+.three
+{
+    background-color: rgb(232, 36, 39);
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: space-around;
+}
+
+
+.anc1 a
+{
+    background-color: bisque;
+    padding: 10px 20px;
+
+}
+.anc1{
+  margin-top: 30px;
+}
+.two
+{
+    width: 500px;
+}
+.four
+{
+    width: 500px;
+}
